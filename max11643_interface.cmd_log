@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/MAX11643_Interface/max11643_interface.xst" -ofn "E:/MAX11643_Interface/max11643_interface.syr" 
